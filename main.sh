@@ -3,7 +3,10 @@ source modules/test_funcs.sh
 
 main() {
    if test_funcs "$@"; then
-      echo "OS: ${os}"
+cat << EOF
+OS: $os
+Python Versions: $versions
+EOF
    fi
 
 }
