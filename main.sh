@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
-source modules/get_os.sh
+source modules/test_funcs.sh
 
 main() {
-   get_os "$@" && echo "OS: ${os}"
+   if test_funcs "$@"; then
+      echo "OS: ${os}"
+   fi
+
 }
 
 main "$@"
