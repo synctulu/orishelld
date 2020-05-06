@@ -10,4 +10,4 @@
 
 - [ ] hdsize
 
-- [ ] ram
+- [x] ram

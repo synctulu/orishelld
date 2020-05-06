@@ -6,6 +6,7 @@ main() {
 cat << EOF
 OS: $os
 Python Versions: $versions
+RAM: ${memtotal:0:4} GiB
 EOF
    fi
 
