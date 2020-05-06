@@ -1,7 +1,13 @@
-[ ] os
-[ ] locale
-[ ] pythonv
-[ ] packages
-[ ] kernelv
-[ ] hdsize
-[ ] ram
+- [x] os
+
+- [ ] locale
+
+- [x] pythonv
+
+- [ ] packages
+
+- [ ] kernelv
+
+- [ ] hdsize
+
+- [ ] ram
