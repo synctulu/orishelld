@@ -10,6 +10,7 @@ RAM: ${memtotal:0:4}GiB
 Root Size: ${hd}iB
 Kernel Version: $kernelv
 Packages: $pkgs
+Language: $lang
 EOF
    fi
 

@@ -1,10 +1,10 @@
 - [x] os
 
-- [ ] locale
+- [x] locale
 
 - [x] pythonv
 
-- [ ] packages
+- [x] packages
 
 - [x] kernelv
 
