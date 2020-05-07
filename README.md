@@ -18,4 +18,10 @@ git clone https://github.com/synctulu/orishelld
 2. Execute the tool without arguments: `./main.sh`
 
 ## TODO
-- [ ] Solve the todo.md problems and delete him
+- [x] Solve the todo.md problems and delete him
+
+- [ ] get_shell
+
+- [ ] get_resolution
+
+- [ ] get_envgraphic
