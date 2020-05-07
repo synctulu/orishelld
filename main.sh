@@ -8,6 +8,7 @@ OS: $os
 Python Versions: $versions
 RAM: ${memtotal:0:4}GiB
 Root Size: ${hd}iB
+Kernel Version: $kernelv
 EOF
    fi
 

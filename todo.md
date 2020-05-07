@@ -6,8 +6,8 @@
 
 - [ ] packages
 
-- [ ] kernelv
+- [x] kernelv
 
-- [ ] hdsize
+- [x] hdsize
 
 - [x] ram
