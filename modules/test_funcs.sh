@@ -7,7 +7,7 @@ done
 
 test_funcs(){
    if [ "$#" -eq 0 ]; then
-      if get_os "$@" && get_python && get_ram && get_hd && get_kernelv && get_pkgs && get_locale; then
+      if get_os && get_python && get_ram && get_hd && get_kernelv && get_pkgs && get_locale; then
          return 0
       fi
    else
